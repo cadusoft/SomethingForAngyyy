@@ -41,6 +41,8 @@ namespace SomethingForAngyyy
                 if (ho > 100)
                     break;
             }
+
+            Console.WriteLine("This was done for a new secured commit!");
         }
 
         private static void ZipTest()
